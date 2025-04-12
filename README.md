@@ -5,26 +5,26 @@ It sends everything straight to a Telegram chat automatically.
 ⚠️ For educational purposes only. Don’t do dumb illegal shit.
 
 What It Does
-Logs every key you press
+- Logs every key you press
 
-Sends any text you copy
+- Sends any text you copy
 
-Takes a screenshot every 5 minutes
+- Takes a screenshot every 5 minutes
 
-Collects system info (hostname, IP, OS, processor, etc.)
+- Collects system info (hostname, IP, OS, processor, etc.)
 
-Adds itself to Windows startup
+- Adds itself to Windows startup
 
-Sends everything to Telegram
+- Sends everything to Telegram
 
 How to Use
-Download or clone the project
+- Download or clone the project
 
-Open the script and add your Telegram bot token and chat ID
+- Open the script and add your Telegram bot token and chat ID
 
-Install the required Python libraries (like opencv, pyautogui, pyperclip, pynput, requests)
+- Install the required Python libraries (like opencv, pyautogui, pyperclip, pynput, requests)
 
-Run the script — it starts logging right away and sends data to your Telegram
+- Run the script — it starts logging right away and sends data to your Telegram
 
 Main Files
 The main script is logger.py
