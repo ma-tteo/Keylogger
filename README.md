@@ -100,4 +100,4 @@ All commands must be sent to the bot in your Telegram chat. For commands that ta
 ## Main Files
 
 -   `keylogger_telegram.py`: The main script containing all the logic.
--   `keylogger_telegram.spec`: The PyInstaller specification file for building the executable.
+-   `keyloggerNoWebcam_telegram.py`: The main script without using the webcam.
