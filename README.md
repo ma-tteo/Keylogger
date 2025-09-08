@@ -41,6 +41,7 @@ All commands must be sent to the bot in your Telegram chat. For commands that ta
 | `/ls` | `/ls <device_id> [directory_path]` | Lists the contents of the specified directory. If no path is given, it lists the content of the current working directory. |
 | `/cd` | `/cd <device_id> <directory_path>` | Changes the current working directory on the remote device. |
 | `/getfile` | `/getfile <device_id> <file_path>` | Downloads the specified file from the device. |
+| `/help` | `/help` | Shows the list of comands. |
 
 ---
 
