@@ -33,8 +33,8 @@ except ImportError:
     win32crypt = None
 
 SECRET_KEY = b'aVuzD_TMheAHemOnvrBvkh8f4A3--rTBuf8ERiTV0nk='
-ENCRYPTED_BOT_TOKEN = b'gAAAAABovecSWt26hljFqJSfIWK5G-3DQ5vhRhgjtifQZlJkEaB1C72zQYLkqrdpBmH-v2Zjt7yku5tmDWWXdzcWyOZJFdSbMCv_6NNvScRrMI18qUDmfClkKYVUu5dyoErPu8wwiC_2'
-ENCRYPTED_CHAT_ID = b'gAAAAABovecSBgRLVwnbFosHGhE3jtOwSAVjd5PBe64F46nflS8_wqTs1-tb9LZzcGETajPPJ5KB36C4x-W1GoFV0tXCQgkwaA=='
+ENCRYPTED_BOT_TOKEN = b''
+ENCRYPTED_CHAT_ID = b''
 
 print("[LOG] Avvio dello script.")
 try:
